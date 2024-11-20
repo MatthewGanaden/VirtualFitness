@@ -37,10 +37,6 @@ python manage.py runserver
 ```
 4. Change directory to client
 ```sh
-# go back to main directory
-cd ..
-
-# go to client directory
 cd client
 ```
 5. Build the client
