@@ -5,7 +5,7 @@ import Navbar from './components/Navbar'
 
 export default function Home() {
   return (
-    <div>
+    <div className="">
       <Banner/>
       <Navbar/>
       <h1>This message came from Django</h1>
